@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ashcodeshere
+- 👋 Hi, I’m Anshul Ahluwalia
 - 👀 I’m interested in computing, gaining knowledge, sports.
 - 🌱 I’m currently learning Python,C++ and C.
 - 💞️ I’m looking to collaborate on some beginners projects.
